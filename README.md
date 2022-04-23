@@ -10,4 +10,4 @@ On the right side of our Main Content is a description of the benefits which we 
 
 Finally, at the bottom of the page you will find the "Footer," which displays the full name of our company and our signature brand statement "Made with love, by Horiseon."
 
-![Website Preview](./Develop/assets/images/01-html-css-git-homework-demo.png)
+![Website Preview](./assets/images/01-html-css-git-homework-demo.png)
