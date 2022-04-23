@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Navigation Header Style */
+/* Navigation Style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,9 +47,9 @@ body {
 p {
     font-size: 16px;
 }
-/* Navigation Header Style end */
+/* Navigation Style end */
 
-/* Hero Style Start */
+/* Hero Style */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,6 +60,7 @@ p {
 }
 /* Hero Style End */
 
+/* Main Content Style */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -76,6 +77,27 @@ p {
     margin-left: 20px;
 }
 
+.resources {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.resources img {
+    max-height: 200px;
+}
+
+.resources h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Main Content Style End*/
+
+/* Benefits Style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,32 +124,17 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Benefits Style */
 
-.resources {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.resources img {
-    max-height: 200px;
-}
-
-.resources h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.footer {
+/* Footer Style */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
+/* Footer Style End*/
